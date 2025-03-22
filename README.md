@@ -29,7 +29,7 @@ npm install -g degit
 To clone this project without commit history, use `degit`:
 
 ```sh
-degit github-user/repo-name my-new-project
+degit srimel/react-daisy-starter my-new-project
 cd my-new-project
 ```
 
